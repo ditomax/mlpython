@@ -18,4 +18,4 @@ dependencies:
   - pillow
   - hyperopt
   - pandoc
-  - notebook-as-pdf
+  - nbconvert[qtpdf]
