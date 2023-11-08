@@ -1,7 +1,6 @@
 name: mlpython
 channels:
   - conda-forge
-  - pytorch
 dependencies:
   - python=3
   - numpy
@@ -10,6 +9,3 @@ dependencies:
   - scikit-learn
   - seaborn
   - jupyterlab
-  - tensorflow=2
-  - keras
-  - pillow
